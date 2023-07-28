@@ -38,7 +38,7 @@
 <img width="843" alt="image" src="https://github.com/alswjd2432/Proj4_NetworkAnalysis/assets/95081711/8d11ca8f-8184-4ccc-892a-fb90a9e1da8a">
 : 노드 색깔로 계좌의 특성을 표시, 엣지 색깔에 시계열 변수 포함, 엣지 두께에 거래 금액을 시각화
 <br>
-- 예시 네트워크
+- 예시 사기 거래 시각화
 <img width="831" alt="image" src="https://github.com/alswjd2432/Proj4_NetworkAnalysis/assets/95081711/fe31dcae-15f5-419d-9068-ee84345c632e">
 
 ### 사기 의심 계좌 탐지 모델 개발
